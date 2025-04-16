@@ -13,11 +13,5 @@ By randomly shuffling (surrogating) the volatility data, we “destroy” any te
 Bootstrap Resampling for Confidence Intervals:
 A bootstrap procedure is implemented to obtain 95% confidence intervals for the scaling exponents 
 . This gives a measure of the statistical uncertainty in the estimation.
-## Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/multifractal_finance_analysis.git
-cd multifractal_finance_analysis
 
 
